@@ -12,7 +12,7 @@ With the advent of the Android 12, developers have been sparing no efforts to br
 
 ## Currently Worked Upon By
 
-![Baba Nirala](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)(https://t.me/jaat4u)
+![Baba Nirala](https://img.shields.io/badge/Baba-Nirala-232F3E?style=for-the-badge&logo=Baba-Nirala&logoColor=white](https://t.me/jaat4u)
 
 ## Hit Out to Us
 
