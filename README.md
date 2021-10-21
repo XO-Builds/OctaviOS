@@ -12,7 +12,7 @@ With the advent of the Android 12, developers have been sparing no efforts to br
 
 ## Overview
 
-The [Screenshots](https://github.com/XO-Builds/OctaviOS/blob/main/%5BScreenshots%5DOctaviOS_3.0_Beryllium.pdf) have also been ATTACHED here for you to just get a ROUGH IDEA of how the ROM gonna be like ;)
+The [Screenshots](https://github.com/XO-Builds/OctaviOS/blob/main/%5BScreenshots%5DOctaviOS_3.0_Beryllium.pdf) have also been ATTACHED here just for you to get a ROUGH IDEA of how the ROM gonna be like ;)
 
 ## Currently Worked Upon By
 
