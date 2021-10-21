@@ -10,7 +10,13 @@ OctaviOS is a comeback of the ROM previously publicized as PearlOS. Some of you 
 
 With the advent of the Android 12, developers have been sparing no efforts to bring it to our beloved Poco F1 aka Beryllium. With most of the Custom ROM Projects dropping Beryllium from their officially maintained devices, its time for Newbies like us to volunteer for the development towards our device and keep the legacy alive! Going with the alleged vision, here I'm dispensing out a whole new addition to the list of Android 12 ROMs for our Beryllium, The OctaviOS 3.0.
 
-![Baba Nirala](https://img.shields.io/badge/BabaNirala-3DDC84?style=for-the-badge&logo=BabaNirala&logoColor=white)
+## Currently Worked Upon By
+
+![Baba Nirala](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)(https://t.me/jaat4u)
+
+## Hit Out to Us
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xosden)
 
 ## Downloads Count by the Date of Release
 
