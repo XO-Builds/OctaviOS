@@ -29,4 +29,8 @@ The [Screenshots](https://github.com/XO-Builds/OctaviOS/blob/main/%5BScreenshots
 
 ## Downloads Count by the Date of Release
 
+
+[![GitHub Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/OctaviOS/3.0-20211022-0620/total.svg)](https://github.com/XO-Builds/OctaviOS/releases)
+
+
 [![GitHub Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/OctaviOS/3.0-20211021-0520/total.svg)](https://github.com/XO-Builds/OctaviOS/releases)
