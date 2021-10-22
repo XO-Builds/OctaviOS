@@ -18,6 +18,11 @@ The [Screenshots](https://github.com/XO-Builds/OctaviOS/blob/main/%5BScreenshots
 
 ![Baba Nirala](https://img.shields.io/badge/BabaNirala-232F3E?style=for-the-badge&logo=BabaNirala&logoColor=white)
 
+## Contributed to the Project By
+
+[X-FUCKIN-O](https://github.com/XtremeOrnob)
+[Rahul Mishra](https://github.com/beingmishra)
+
 ## Hit Out to Us
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xosden)
