@@ -29,11 +29,3 @@ The [Screenshots](https://github.com/XO-Builds/OctaviOS/blob/main/%5BScreenshots
 ## Hit Out to Us
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xosden)
-
-## Downloads Count by the Date of Release
-
-
-[![GitHub Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/OctaviOS/3.0-20211022-0620/total.svg)](https://github.com/XO-Builds/OctaviOS/releases)
-
-
-[![GitHub Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/OctaviOS/3.0-20211021-0520/total.svg)](https://github.com/XO-Builds/OctaviOS/releases)
