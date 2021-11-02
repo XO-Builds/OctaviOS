@@ -19,7 +19,7 @@ The [Screenshots](https://github.com/XO-Builds/OctaviOS/blob/main/%5BScreenshots
 
 ## Currently Worked Upon By
 
-![Baba Nirala](https://img.shields.io/badge/BabaNirala-232F3E?style=for-the-badge&logo=BabaNirala&logoColor=white)
+POLIO GENG [NONE CARES]
 
 ## Contributed to the Project By
 
